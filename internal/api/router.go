@@ -1,9 +1,9 @@
 package api
 
 import (
-	"test-im/internal/handle"
-	"test-im/internal/logic"
-	"test-im/internal/model/types"
+	"gibhub.com/l-jessie/test-im/internal/handle"
+	"gibhub.com/l-jessie/test-im/internal/logic"
+	"gibhub.com/l-jessie/test-im/internal/model/types"
 
 	"github.com/gin-gonic/gin"
 )

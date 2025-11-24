@@ -3,8 +3,9 @@ package types
 import (
 	"errors"
 	"log"
-	"test-im/internal/global"
 	"time"
+
+	"gibhub.com/l-jessie/test-im/internal/global"
 
 	"github.com/gorilla/websocket"
 )

@@ -1,7 +1,7 @@
 package dto
 
 import (
-	"test-im/internal/model/entity"
+	"gibhub.com/l-jessie/test-im/internal/model/entity"
 )
 
 type CreateRoomRequest struct {

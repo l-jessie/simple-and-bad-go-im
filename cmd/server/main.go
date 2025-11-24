@@ -1,7 +1,7 @@
 package main
 
 import (
-	"test-im/internal/api"
+	"gibhub.com/l-jessie/test-im/internal/api"
 )
 
 func main() {

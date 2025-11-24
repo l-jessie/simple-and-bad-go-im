@@ -3,8 +3,9 @@ package handle
 import (
 	"net/http"
 	"strings"
-	"test-im/internal/logic"
-	types2 "test-im/internal/model/types"
+
+	"gibhub.com/l-jessie/test-im/internal/logic"
+	types2 "gibhub.com/l-jessie/test-im/internal/model/types"
 
 	"github.com/gin-gonic/gin"
 	"github.com/gorilla/websocket"

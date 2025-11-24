@@ -1,4 +1,4 @@
-module test-im
+module gibhub.com/l-jessie/test-im
 
 go 1.25
 

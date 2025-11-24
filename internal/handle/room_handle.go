@@ -2,11 +2,12 @@ package handle
 
 import (
 	"net/http"
-	"test-im/internal/logic"
-	"test-im/internal/model/dto"
-	"test-im/internal/model/entity"
-	"test-im/internal/model/types"
-	"test-im/internal/utils"
+
+	"gibhub.com/l-jessie/test-im/internal/logic"
+	"gibhub.com/l-jessie/test-im/internal/model/dto"
+	"gibhub.com/l-jessie/test-im/internal/model/entity"
+	"gibhub.com/l-jessie/test-im/internal/model/types"
+	"gibhub.com/l-jessie/test-im/internal/utils"
 
 	"github.com/gin-gonic/gin"
 )
