@@ -3,11 +3,11 @@ package handle
 import (
 	"net/http"
 
-	"gibhub.com/l-jessie/test-im/internal/logic"
-	"gibhub.com/l-jessie/test-im/internal/model/dto"
-	"gibhub.com/l-jessie/test-im/internal/model/entity"
-	"gibhub.com/l-jessie/test-im/internal/model/types"
-	"gibhub.com/l-jessie/test-im/internal/utils"
+	"github.com/l-jessie/test-im/internal/logic"
+	"github.com/l-jessie/test-im/internal/model/dto"
+	"github.com/l-jessie/test-im/internal/model/entity"
+	"github.com/l-jessie/test-im/internal/model/types"
+	"github.com/l-jessie/test-im/internal/utils"
 
 	"github.com/gin-gonic/gin"
 )

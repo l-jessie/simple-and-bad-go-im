@@ -1,8 +1,8 @@
 package handle
 
 import (
-	"gibhub.com/l-jessie/test-im/internal/model/dto"
-	"gibhub.com/l-jessie/test-im/internal/model/types"
+	"github.com/l-jessie/test-im/internal/model/dto"
+	"github.com/l-jessie/test-im/internal/model/types"
 
 	"github.com/gin-gonic/gin"
 )

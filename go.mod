@@ -1,4 +1,4 @@
-module gibhub.com/l-jessie/test-im
+module github.com/l-jessie/test-im
 
 go 1.25
 

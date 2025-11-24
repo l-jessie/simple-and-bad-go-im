@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"gibhub.com/l-jessie/test-im/internal/global"
+	"github.com/l-jessie/test-im/internal/global"
 
 	"github.com/gorilla/websocket"
 )

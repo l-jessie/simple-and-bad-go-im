@@ -3,7 +3,7 @@ package handle
 import (
 	"net/http"
 
-	"gibhub.com/l-jessie/test-im/internal/utils"
+	"github.com/l-jessie/test-im/internal/utils"
 
 	"github.com/gin-gonic/gin"
 )

@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"log"
 
-	types2 "gibhub.com/l-jessie/test-im/internal/model/types"
+	types2 "github.com/l-jessie/test-im/internal/model/types"
 )
 
 type ChatService struct {

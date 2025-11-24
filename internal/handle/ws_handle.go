@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"strings"
 
-	"gibhub.com/l-jessie/test-im/internal/logic"
-	types2 "gibhub.com/l-jessie/test-im/internal/model/types"
+	"github.com/l-jessie/test-im/internal/logic"
+	types2 "github.com/l-jessie/test-im/internal/model/types"
 
 	"github.com/gin-gonic/gin"
 	"github.com/gorilla/websocket"
